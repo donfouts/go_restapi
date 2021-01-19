@@ -1,0 +1,72 @@
+[
+    {
+      "_id": "6004b2646be64d5f2d94df80",
+      "index": 0,
+      "guid": "90490ee9-ba2c-4a86-9cf0-536907a248ed",
+      "isActive": true,
+      "createdon": "01172021",
+      "appname": "app1",
+      "devowner": "cia",
+      "software": "dotnet core",
+      "platform": "on-prem iis farm",
+      "farms": [
+          {
+              "fid": 1,
+              "name": "dev web 1"
+          },
+          {
+              "fid": 2,
+              "name": "tst web 1"
+          },
+          {
+              "fid": 3,
+              "name": "stg web 1"
+          },
+          {
+              "fid": 4,
+              "name": "prd web 1"
+          }],
+      "tags": [
+        {"tag": "internal"},
+        {"tag": "anonymous"},
+        {"tag": "rabbit-onprem"},
+        {"tag": "redis-azure"},
+        {"tag": "keyvault-pipeline"}
+      ]
+    },
+    {
+        "_id": "5504b2646be65d5f1d94af80",
+        "index": 1,
+        "guid": "9fab2760-14e0-42c5-8639-5dc15aed2a4d",
+        "isActive": true,
+        "createdon": "01172020",
+        "appname": "app2",
+        "devowner": "cia",
+        "software": "dotnet core",
+        "platform": "on-prem iis farm",
+        "farms": [
+            {
+                "fid": 1,
+                "name": "dev web 1"
+            },
+            {
+                "fid": 2,
+                "name": "tst web 1"
+            },
+            {
+                "fid": 3,
+                "name": "stg web 1"
+            },
+            {
+                "fid": 4,
+                "name": "prd web 1"
+            }],
+        "tags": [
+          "internal",
+          "anonymous",
+          "rabbit-onprem",
+          "redis-azure",
+          "keyvault-pipeline"
+        ]
+    }
+]
