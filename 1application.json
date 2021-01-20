@@ -2,7 +2,6 @@
     {
       "_id": "6004b2646be64d5f2d94df80",
       "index": 0,
-      "guid": "90490ee9-ba2c-4a86-9cf0-536907a248ed",
       "isActive": true,
       "createdon": "01172021",
       "appname": "app1",
@@ -37,7 +36,6 @@
     {
         "_id": "5504b2646be65d5f1d94af80",
         "index": 1,
-        "guid": "9fab2760-14e0-42c5-8639-5dc15aed2a4d",
         "isActive": true,
         "createdon": "01172020",
         "appname": "app2",
